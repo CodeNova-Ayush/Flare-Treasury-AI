@@ -1,0 +1,9 @@
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/(landing)/page": "app/(landing)/page.js",
+  "/(dashboard)/dashboard/page": "app/(dashboard)/dashboard/page.js",
+  "/(dashboard)/verify/page": "app/(dashboard)/verify/page.js",
+  "/(dashboard)/advisor/page": "app/(dashboard)/advisor/page.js",
+  "/(dashboard)/market/page": "app/(dashboard)/market/page.js"
+}
