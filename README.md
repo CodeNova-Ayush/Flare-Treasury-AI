@@ -17,4 +17,4 @@ Flare Treasury AI is an AI-driven treasury automation platform built on the Flar
 • Built natively on the Flare Network with a data-first blockchain architecture
 • Designed for DAOs, protocols, and enterprises managing on-chain treasuries
 
-• Use cases include DAO treasury management, cross-chain payment verification, automated financial operations, and risk-aware asset management
+
